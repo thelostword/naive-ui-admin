@@ -18,14 +18,14 @@
 
 ## 🚀 Naive Admin - 开箱即用的企业级前后端框架 `商业版本`
 
-> **✨ 多生态支持 · 多租户就绪 · 四年持续迭代**  
-> 前端自由切换 Vue3 UI 库 | 后端支持 Java/PHP 单体与多租户架构  
+> **✨ 多版本选择 · 四年持续迭代**  
+> 配套前后端支持 Java/Php 语言，支持单体和微服务多租户架构  
 > [详情→官网](https://www.naiveadmin.com) | [更新日志](https://www.yuque.com/u5825/zaqu0e)
 
 ---
 
 ## 🔥 为什么选择 NaiveAdmin 商业版？
-- **省时间**：内置N个扩展组件与业务模板，不写一行样板代码即可开始业务开发
+- **省时间**：内置丰富扩展组件与业务模板，不写一行样板代码即可开始业务开发
 - **经实战**：已落地电网、跨境 ERP、SaaS 等 30+ 场景 
 - **可扩展**：插件式菜单 / 按钮 / 数据权限，新增业务模块「0 侵入」
 
@@ -37,18 +37,13 @@
 |-----|-------|---------|-------------|
 | **🆕 Naive UI Max** | Vu3 + Ts + NaiveUI |  否 | [https://max.naiveadmin.com](https://max.naiveadmin.com) |
 | **Naive UI Plus** | Vu3 + Ts + NaiveUI |  支持Java/PHP | [https://plus.naiveadmin.com](https://plus.naiveadmin.com) |
-| **Naive UI**   | Vue + Ts + NaiveUI  |  支持Java/PHP | [https://pro.naiveadmin.com](https://pro.naiveadmin.com) |
-| **Arco Design** | Vu3 + Ts + Arco Design  |  支持Java     | [https://arco.naiveadmin.com](https://arco.naiveadmin.com)|
-| **Element Plus** | Vu3 + Ts + Element Plus  |  支持Java     | [https://element.naiveadmin.com](https://element.naiveadmin.com) |
-| **Antd Vue**   | Vu3 + Ts + Antd Vue  |  否          | [https://antd.naiveadmin.com](https://antd.naiveadmin.com)|
 
 ## 🔌 前后端版本
 
 | 版本 | 技术栈     | 预览地址                                          |
 |------|------------------|--------------------------------------------------------------|
+| **🆕Naive UI Max** | Vu3 + Ts + NaiveUI  |  [https://max-full.naiveadmin.com](https://max-full.naiveadmin.com)    |
 | **Naive UI Plus** | Vu3 + Ts + NaiveUI  |  [https://plus-full.naiveadmin.com](https://plus-full.naiveadmin.com)    |
-| **Arco Design** | Vu3 + Ts + Arco Design  |[https://arco-full.naiveadmin.com](https://arco-full.naiveadmin.com)    |
-| **Element Plus** | Vu3 + Ts + Element Plus |  [https://element-full.naiveadmin.com](https://element-full.naiveadmin.com) |
 
 ## 🏢 多租户版本
 
